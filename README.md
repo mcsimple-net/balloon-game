@@ -9,7 +9,7 @@
 - JDK 8
 - Android SDK 31
 - Supports API Level 28+
-- Material Components 1.9.0
+- Material Components 1.11.0
 
 
 
